@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+html {
+    background-color: gold;
+    margin: 100px, 70px, 100px;
+    padding: 100px, 70px, 100px;
+    border: black;
+  }
+
+  body {
+    margin: 8px;
+    display: inline-block;
+  }
+
+  #mainHeading {
+    text-align: center;
+    color: red;
+  }
+  p.funParagraph{
+    color: green;
+  }
+
+  .center{
+    text-align: center;
+  }
+
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+#background{
+    background-color: bisque;
+}
+  
